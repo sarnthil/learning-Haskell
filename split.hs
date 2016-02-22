@@ -1,3 +1,4 @@
+-- cabal install split --
 import Data.List.Split (splitOn)
 main = do
   input <- readFile "terry.txt"
